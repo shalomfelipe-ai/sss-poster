@@ -1,0 +1,3 @@
+Semana 24 (26-30/10) NAO RENDERIZADA: sem arte charcoal nova em "imagens 365".
+Pasta criada VAZIA de proposito: sem ela o publisher de segunda pegaria a semana23 e republicaria Reels velhos.
+Com a pasta vazia o publicar_do_dia.py sai sem publicar.
