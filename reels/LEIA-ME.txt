@@ -1,3 +1,3 @@
-Semana 26 NAO renderizada (08/11/2026): runway de arte charcoal = ZERO.
+Semana 27 NAO renderizada (15/11/2026): runway de arte charcoal = ZERO (3a semana seguida).
 Pasta criada vazia de proposito para o publisher nao republicar a semana 25.
-Precisa de 5 artes novas (ChatGPT) de contos com "Conto EN" na planilha.
+Prompts prontos das 5 artes em ..\ARTES_PENDENTES_semana27.md
