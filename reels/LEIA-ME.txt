@@ -1,3 +1,3 @@
-Semana 27 NAO renderizada (15/11/2026): runway de arte charcoal = ZERO (3a semana seguida).
-Pasta criada vazia de proposito para o publisher nao republicar a semana 25.
-Prompts prontos das 5 artes em ..\ARTES_PENDENTES_semana27.md
+Semana 28 (23/11 a 27/11/2026) NAO RENDERIZADA - sem arte nova em imagens 365.
+Pasta criada vazia de proposito: o publisher ve semana28 como a mais recente e nao republica Reel velho.
+Assim que as 5 artes de semana28\ARTES_PENDENTES_semana28.md forem salvas, rodar o pipeline (Kokoro + build_reel).
